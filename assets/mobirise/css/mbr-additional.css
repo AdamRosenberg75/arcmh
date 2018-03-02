@@ -577,7 +577,15 @@ a:hover {
 #menu1-0 .dropdown-item[aria-expanded="true"] {
   color: #f38d39!important;
 }
+#features19-k .mbr-iconfont {
+  background: #f38d39;
+  border-color: #f38d39;
+}
 #features6-2 .mbr-iconfont {
+  color: #f38d39;
+  border-color: #f38d39;
+}
+#features9-l .mbr-iconfont {
   color: #f38d39;
   border-color: #f38d39;
 }

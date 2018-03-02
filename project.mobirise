@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 17,
+    "uniqCompNum": 22,
     "versionPublish": "4.6.2"
   },
   "pages": {
@@ -99,7 +99,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -114,7 +114,7 @@
             "fontColor": "#527d85",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"http://africanresearchcouncil.org/moderator-registration/\" target=\"_blank\">REGISTER</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"http://africanresearchcouncil.org/moderator-registration/\" target=\"_blank\">REGISTER</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -145,7 +145,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "12",
+            "imageSize": "8",
             "paddingTop": "5",
             "paddingBottom": 1,
             "bgColorRadio": true,
@@ -168,7 +168,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "The African Research Council has developed the Moderator Hub with a specific focus on addressing challenges within the market research industry.&nbsp;",
+          "text": "The African Research Council has developed the Moderator Hub with a specific focus on addressing challenges within the market research industry. <br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -180,10 +180,137 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "showHeading": false,
+            "showHeading": true,
             "showTitle": true,
-            "showText": true,
-            "showButtons": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 2,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Moderator Hub Services",
+          "text": "<br>Agency and field managers access the booking portal, define their moderating requirements, and book from the pool of moderators best-suited to the project.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "For business",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "credit-card",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "Moderator Registration",
+          "subtitle1": "Awesome",
+          "text1": "Moderators register online and provide a detailed biography, skillset list and areas of proficiency. &nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "Moderator Support",
+          "subtitle2": "Awesome",
+          "text2": "In addition to providing access to a larger pool of potential clientelle, we take care of your scheduling, reminders, invoicing and training opportunities.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "pages",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "Moderator Bookings",
+          "subtitle3": "Awesome",
+          "text3": "Clients and field managers access the booking portal, define their moderating requirements and timeframes, and book from the pool of moderators best-suited to the project. ",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "shoping-cart",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "Feedback &amp; Training",
+          "subtitle4": "Awesome",
+          "text4": "Feedback and ratings on the portal from clients and field managers ensure that moderators are identified for the ARC Upskill Program thereby allowing us to provide an ongoing improvement to moderation services. ",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title5": "Host Anywhere",
+          "subtitle5": "Awesome",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title6": "Bootstrap 4",
+          "subtitle6": "Awesome",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features19",
+          "_anchor": "features19-k",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
             "columns": "2",
             "iconsBgColor": "@primaryColor",
             "bgImageRadio": false,
@@ -212,7 +339,7 @@
               "family": "MobiriseIcons"
             }
           },
-          "title1": "Research agencies and clients",
+          "title1": "ARC MH - The Moderator Hub",
           "subtitle1": "Awesome",
           "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
@@ -226,7 +353,7 @@
               "family": "MobiriseIcons"
             }
           },
-          "title2": "Swipe!",
+          "title2": "ARC UP - Our Upskill Program",
           "subtitle2": "Awesome",
           "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
@@ -271,29 +398,95 @@
           }
         },
         {
+          "_inherit": "features8",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
           },
-          "text1": "+1 234 576-89-00",
-          "text2": "+9 876 543-21-00",
-          "title1": "Eindhoven, 5657 DB, Netherlands",
-          "title2": "350 5th Ave, New York, NY 10118",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Call us</a>",
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/06.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "profile-settings",
+              "family": "icon54-v2",
+              "active": true
+            }
+          },
+          "title1": "Adam Rosenberg",
+          "subtitle1": "Awesome",
+          "text1": "+27 82-561-2206<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"mailto:adam@africanresearchcouncil.org\">Email Adam</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/07.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "profile-voltage",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com"
+            }
+          },
+          "title2": "Mpho Matlapeng",
+          "subtitle2": "Awesome",
+          "text2": "+27 84-555-0786",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"mailto:mpho@africanresearchcouncil.org\">Email Mpho</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/08.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "profile-lightbulb",
+              "family": "icon54-v2",
+              "active": true
+            }
+          },
+          "title3": "Thabo Mphate",
+          "subtitle3": "Awesome",
+          "text3": "+27 71-155-0725",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"mailto:thabo@africanresearchcouncil.org\">Email Thabo</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_anchor": "footer3-4"
+          "title": "Get in Touch",
+          "text": "AFRICAN RESEARCH COUNCIL",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "_name": "features9",
+          "_anchor": "features9-l",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
         },
         {
           "_styles": {
@@ -313,7 +506,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 ARC.",
+          "text": "Copyright (c) 2018 African Research Council",
           "_tags": [
             "Theme"
           ],
